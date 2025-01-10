@@ -1,0 +1,9 @@
+/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/build/CMakeFiles/main.dir
+/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/build/CMakeFiles/edit_cache.dir
+/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/build/CMakeFiles/rebuild_cache.dir
+/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/build/src/CMakeFiles/src.dir
+/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/build/src/CMakeFiles/edit_cache.dir
+/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/build/src/CMakeFiles/rebuild_cache.dir
+/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/build/tests/CMakeFiles/tests.dir
+/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/build/tests/CMakeFiles/edit_cache.dir
+/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/build/tests/CMakeFiles/rebuild_cache.dir

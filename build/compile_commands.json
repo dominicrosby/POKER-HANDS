@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/main.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/src.dir/cards.cpp.o -c /Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/src/cards.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/src/cards.cpp",
+  "output": "src/CMakeFiles/src.dir/cards.cpp.o"
+},
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/src.dir/play.cpp.o -c /Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/src/play.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/src/play.cpp",
+  "output": "src/CMakeFiles/src.dir/play.cpp.o"
+},
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o tests/CMakeFiles/tests.dir/catch.cpp.o -c /Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/tests/catch.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/tests/catch.cpp",
+  "output": "tests/CMakeFiles/tests.dir/catch.cpp.o"
+},
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/build",
+  "command": "/usr/bin/clang++ -I/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o tests/CMakeFiles/tests.dir/studentTests.cpp.o -c /Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/tests/studentTests.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/p3-dominicrosby/tests/studentTests.cpp",
+  "output": "tests/CMakeFiles/tests.dir/studentTests.cpp.o"
+}
+]
